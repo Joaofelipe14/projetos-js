@@ -1,0 +1,1 @@
+Aplicações com js, para trainamento e entender logica.
