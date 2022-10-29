@@ -1,1 +1,1 @@
-Aplicações com js, para trainamento e entender logica.
+Aplicações com js, para treinamento e entender a sintaxe na linguagem.
